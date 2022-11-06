@@ -34,8 +34,8 @@ You can click the Preview link to take a look at your changes.
  
 ## Stats
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Nishanth-works&show_icons=true&locale=en&theme=dark" alt="" /></p>
+<p>&nbsp;<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Nishanth-works&show_icons=true&locale=en&theme=dark" alt="" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nishanth-works&show_icons=true&locale=en&layout=compact&theme=dark" alt="" /></p>
+<p><img align="left"  width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nishanth-works&show_icons=true&locale=en&layout=compact&theme=dark" alt="" /></p>
 
 
