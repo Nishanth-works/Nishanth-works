@@ -9,7 +9,7 @@
 <img src="https://komarev.com/ghpvc/?username=Nishanth-works&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 Thanks for checking out Nishath's profile
 
-he is a Software Engineer
+Nishanth is a Software Engineer
 passionate about cutting edge technology and solving real world problems
 with experience in building and managing scalable microservices, pipeline's and ML.
 Currently working at a Startup, soaking up as much knowledge and practice in an attempt to perfect his craft.
@@ -17,7 +17,7 @@ Currently working at a Startup, soaking up as much knowledge and practice in an 
 #### Skilled in
 
 -  Language : Python, Ruby, C++, sql
--  Technology: Unix, AWS, Redis, Docker, Jenkins, UWSGI, nginx, Terraform, Pandas, NumPy ,scikit-learn, OpenCV
+-  Technology: Unix, AWS, Redis, Docker, Jenkins, Sidekiq, UWSGI, nginx, Terraform, Pandas, NumPy ,scikit-learn, OpenCV
 -  Frameworks: Django, Flask, Rails, PyTorch, TF, Keras
 -  DB: PostgreSQL, Redshift, DynamoDB, Oracle
 <!---
